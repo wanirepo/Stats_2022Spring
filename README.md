@@ -15,7 +15,7 @@
 ## Download
 You can download the class materials using the following command line.
 
-	$ git clone https://github.com/wanirepo/Stats_2021Spring.git
+	$ git clone https://github.com/wanirepo/Stats_2022Spring.git
 
 Once you clone the github repository, you can just type the following command to get the updated github repository. 
 
